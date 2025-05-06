@@ -1,0 +1,10 @@
+body {
+    margin: 0;                 /* remove default browser margin   */
+    font-family: system-ui, sans-serif;
+    background: #f7f9fc;       /* light gray‑blue background       */
+    color: #222;               /* dark text for good contrast      */
+    display: flex;             /* center demo content vertically   */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;             /* full viewport height             */
+  }
